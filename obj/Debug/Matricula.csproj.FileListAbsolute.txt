@@ -1,0 +1,11 @@
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\bin\Debug\Matricula.exe.config
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\bin\Debug\Matricula.exe
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\bin\Debug\Matricula.pdb
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.csproj.AssemblyReference.cache
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.Menu.resources
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.csproj.GenerateResource.cache
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.csproj.CoreCompileInputs.cache
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.exe
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.pdb
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.Properties.Resources.resources
+D:\Universidad\2022\2022-1\Modelamiento y Analisis de Software\Semana-9\Tarea\Matricula\Matricula\obj\Debug\Matricula.FrmAlumnos.resources

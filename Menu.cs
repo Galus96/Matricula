@@ -64,6 +64,8 @@ namespace Matricula
             this.panelMostrar.Controls.Add(fh);
             this.panelMostrar.Tag = fh;
             fh.Show();
+
+            Console.WriteLine("Hola");
         }
 
         private void btnAlumno_Click(object sender, EventArgs e)
